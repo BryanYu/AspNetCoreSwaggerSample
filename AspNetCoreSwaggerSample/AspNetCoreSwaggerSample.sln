@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29418.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetCoreSwaggerSample", "AspNetCoreSwaggerSample\AspNetCoreSwaggerSample.csproj", "{8EF900D5-0FC4-4652-A926-C066EC2596A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8EF900D5-0FC4-4652-A926-C066EC2596A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EF900D5-0FC4-4652-A926-C066EC2596A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EF900D5-0FC4-4652-A926-C066EC2596A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EF900D5-0FC4-4652-A926-C066EC2596A9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2470D08D-F076-4208-96AB-A0D150D07CB1}
+	EndGlobalSection
+EndGlobal
